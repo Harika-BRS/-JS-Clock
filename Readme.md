@@ -1,6 +1,2 @@
 # JS Clock
-
-###### Purpose:
-    Display the current time using JS
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/js-clock/).
+# you can live [here](https://harika-brs.github.io/JS/).
